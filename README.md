@@ -1,4 +1,4 @@
-# GROUP 14 - HOTEL BOOKING MANAGEMENT SYSTEM
+# CCS6344 GROUP 14 - HOTEL BOOKING MANAGEMENT SYSTEM
 
 **Hotel Booking Management System Installation Guide**
 
